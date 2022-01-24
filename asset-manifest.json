@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/collegeHelp/static/css/main.be5a38a8.css",
+    "main.js": "/collegeHelp/static/js/main.2e9ed937.js",
+    "static/media/Group 41.png": "/collegeHelp/static/media/Group 41.005220bd3997a5326db3.png",
+    "static/media/background.png": "/collegeHelp/static/media/background.7e5e68987f174047bf03.png",
+    "static/media/home.png": "/collegeHelp/static/media/home.613d424ada65503e01a1.png",
+    "static/media/team.png": "/collegeHelp/static/media/team.1960a92ce7b43f1bdbba.png",
+    "static/media/learn.png": "/collegeHelp/static/media/learn.a47109556796c7857fff.png",
+    "static/media/stay updated icon.png": "/collegeHelp/static/media/stay updated icon.1536a64ebf9045d7030b.png",
+    "static/media/study material icon.png": "/collegeHelp/static/media/study material icon.378f753c950c0ac5f6f8.png",
+    "static/media/class note icon.png": "/collegeHelp/static/media/class note icon.14ecfb30c639f9d78e14.png",
+    "index.html": "/collegeHelp/index.html",
+    "main.be5a38a8.css.map": "/collegeHelp/static/css/main.be5a38a8.css.map",
+    "main.2e9ed937.js.map": "/collegeHelp/static/js/main.2e9ed937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5a38a8.css",
+    "static/js/main.2e9ed937.js"
+  ]
+}
